@@ -1,4 +1,4 @@
-# mixIN meta analysis
+# Mixture inverse-normal (mixIN) method for meta analysis
 Mixture inverse-normal method for meta-analysis of RNA-seq data.
 
 This repository contains an implementation of mixture inverse-normal (mixIN) method for meta-analysis of multiple but related RNA sequencing (RNA-seq) studies. The current code demonstrates the method for combination of p-values from two different real glioblastoma RNA-seq studies.
