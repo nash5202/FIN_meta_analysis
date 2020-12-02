@@ -15,6 +15,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 * R version 3.6.0 or above.
 
 ## References
-1. Rau A, Marot G, Jaffrézic F. Differential meta-analysis of RNA-seq data from multiple studies. BMC bioinformatics. 2014 Dec 1;15(1):91.
-2. Raithel S, Johnson L, Galliart M, Brown S, Shelton J, Herndon N, Bello NM. Inferential considerations for low-count RNA-seq transcripts: a case study on the dominant prairie grass Andropogon gerardii. BMC genomics. 2016 Dec 1;17(1):140.
+1. Rau A, Marot G, Jaffrézic F. Differential meta-analysis of RNA-seq data from multiple studies. BMC bioinformatics. 2014 Dec 1;15(1):91. [DOI](https://doi.org/10.1186/1471-2105-15-91)
+2. Raithel S, Johnson L, Galliart M, Brown S, Shelton J, Herndon N, Bello NM. Inferential considerations for low-count RNA-seq transcripts: a case study on the dominant prairie grass Andropogon gerardii. BMC genomics. 2016 Dec 1;17(1):140. [DOI](https://doi.org/10.1186/s12864-016-2442-7)
 
