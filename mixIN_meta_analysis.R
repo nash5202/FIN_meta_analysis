@@ -1,4 +1,4 @@
-## combination of p-values for meta-analysis using the mixture inverse-normal method.
+## combination of p-values for meta-analysis using the fused inverse-normal method.
 ## @uthor: B Prasad
 ## created on : March 12, 2021
 path <- "Specify the current working directory path"
@@ -20,7 +20,7 @@ study_1 <- read.csv(file = sprintf("%s/GSE123892_edgeR_results.csv", data_path),
 study_2 <- read.csv(file = sprintf("%s/GSE151352_edgeR_results.csv", data_path), header = TRUE, stringsAsFactors = FALSE)
 study_3 <- read.csv(file = sprintf("%s/TCGA_GBM_edgeR_results.csv", data_path), header = TRUE, stringsAsFactors = FALSE)
 
-## mix_in function for mixture inverse-normal method
+## mix_in function for fused inverse-normal method
 mix_in <- function(study_1, study_2, study_3, n_samp, datasets){
   ## Assess the direction of expression of each gene in each study
   study_1$dir <- sign(study_1$logFC)
