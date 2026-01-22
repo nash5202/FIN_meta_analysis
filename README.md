@@ -1,5 +1,4 @@
 # Fused inverse-normal (FIN) method for meta analysis
-Fused inverse-normal method for meta-analysis of RNA-seq data.
 
 This repository contains an implementation of fused inverse-normal (FIN) method for meta-analysis of multiple but related RNA sequencing (RNA-seq) studies. The current code demonstrates the method for combination of p-values from three different real glioblastoma RNA-seq studies and can be adapted to any number of RNA-seq gene expression studies.
 
